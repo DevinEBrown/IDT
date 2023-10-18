@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+
+/*body*/
+ body{
+        background-color: ##FBFBFB;
+      }
+
+/*Header*/
+.navbar{
+  --bs-navbar-color: rgba(0, 0, 0, 1);
+    --bs-navbar-hover-color: #9E5D40;
+    --bs-navbar-disabled-color: rgba(0, 0, 0, 1);
+    --bs-navbar-active-color: rgba(0, 0, 0, 1);
+}
+ .navbar a{
+font-family: 'Manrope', sans-serif;
+font-size: 18px;
+font-weight: 300;
+}
+
+.nav-link.active, .navbar-nav .show>.nav-link {
+ text-decoration: underline !important;
+color:black;
+}
+ .img-fluid{
+  padding-bottom: 10px;
+ }
+
+/*Fonts*/
+
+h1, h2, h3, h4, li, p, a{
+  color: #393737;
+}
+
+h1{
+font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 54.93px;
+}
+h2{
+  font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 43.95px;
+}
+h3{
+font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 35.16px;
+}
+/**/
+h4{
+font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 28.13px;
+}
+
+li{
+font-family: 'Manrope', sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: 18px;
+}
+
+p{
+
+font-family: 'Manrope', sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: 18px;
+}
+
+nav a{
+font-family: 'Manrope', sans-serif;
+font-weight: 800;
+font-size: 18px;
+}
+
+p a:hover{
+  color: #9E5D40;
+}
+
+
+/*.work a, .link{
+  text-decoration: none;
+  color:black;
+}
+
+.work a:hover{
+  color: #9E5D40;
+}
+
+a:hover{
+  color: #9E5D40;
+}
+
+.port-img{
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bio{
+ text-align: center;
+}
+
+.bio-img img{
+   -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%)
+}
+
+.headings{
+
+  text-align: center;
+    padding-bottom: 35px;
+}
+
+.work-index{
+  padding-bottom: 20px;
+}*/
+
+hr{
+  color: #9E5D40;
+  border-top: 2px solid;
+    opacity: .50;
+}
+
+/*footer*/
+.social{
+	text-align: center; 
+}
+.social a{
+ color: #ffffff;
+ text-align: center;
+}
+
+span{
+  text-align: left;
+  color: #ffffff;
+}
+
+footer{
+ background-color: #9E5D40;
+  padding-top: 5px;
+   padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+
+.fa{
+  padding: 10px;
+  font-size: 20px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*@media screen and (min-width: 300px) {
+ h1{
+  font-size: 35.16px;
+ }
+}*/
+
