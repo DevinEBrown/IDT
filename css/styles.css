@@ -172,6 +172,16 @@ font-weight: 300;
     --bs-btn-disabled-border-color: #9E5D40;
 }
 
+/*secondary links*/
+.sec-link{
+ color:#9E5D40;
+ font-size: 1.25rem;
+}
+
+.sec-link a{
+  text-decoration: none;
+}
+
 /*footer*/
 .social{
 	text-align: center; 
