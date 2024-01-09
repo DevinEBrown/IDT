@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500&family=Manrope:wght@200;500&display=swap');
 /*body*/
- body{
-        background-color: ##FBFBFB;
-      }
+ 
+body{
+background-color: ##FBFBFB;
+ }
 
 /*Header*/
 .navbar{
@@ -32,10 +33,10 @@ font-weight: 300;
 font-size: 20px;
 }
 
- .navbar img{
+.navbar img{
 width:100px;
 height:100px;
- }
+}
 
 /*Fonts*/
 
