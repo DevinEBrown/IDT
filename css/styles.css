@@ -14,8 +14,8 @@
 }
  .navbar a{
 font-family: 'Karla', sans-serif;
-font-size: 18px;
-font-weight: 300;
+font-size: 20px;
+font-weight: 500;
 }
 
 .nav-link.active, .navbar-nav .show>.nav-link {
@@ -25,6 +25,12 @@ color:black;
  .img-fluid{
   padding-bottom: 10px;
  }
+
+nav a{
+font-family: 'Karla', sans-serif;
+font-weight: 500;
+font-size: 20px;
+}
 
 /*Fonts*/
 
@@ -73,11 +79,6 @@ font-style: normal;
 font-size: 1rem;
 }
 
-nav a{
-font-family: 'Karla', sans-serif;
-font-weight: 800;
-font-size: 18px;
-}
 
 p a:hover{
   color: #9E5D40;
