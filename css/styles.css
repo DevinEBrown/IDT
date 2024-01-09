@@ -32,46 +32,52 @@ h1, h2, h3, h4, h5 li, p, a{
   color: #393737;
 }
 
-h1{
+h1,.h1{
 font-family: ivypresto-headline, serif;
 font-weight: 300;
-font-size: 54.93px;
+font-size: 2.986rem;
 }
-h2{
+h2, .h2{
   font-family: ivypresto-headline, serif;
 font-weight: 300;
-font-size: 43.95px;
+font-size: 2.488rem;
 }
-h3{
+h3, .h3{
 font-family: ivypresto-headline, serif;
 font-weight: 300;
-font-size: 35.16px;
-}
-
-h4{
-font-family: ivypresto-headline, serif;
-font-weight: 300;
-font-size: 28.13px;
+font-size: 2.074rem;
 }
 
-h5{
+h4, .h4{
 font-family: ivypresto-headline, serif;
 font-weight: 300;
+font-size: 1.728rem;
+}
+
+h5, .h5{
+font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 1.44rem;
+}
+
+h6, .h6{
+font-family: ivypresto-headline, serif;
+font-weight: 300;
+font-size: 1.2rem;
 }
 
 li{
 font-family: 'Manrope', sans-serif;
 font-weight: 100;
 font-style: normal;
-font-size: 18px;
+font-size: 1rem;
 }
 
 p{
-
 font-family: 'Manrope', sans-serif;
 font-weight: 100;
 font-style: normal;
-font-size: 18px;
+font-size: 1rem;
 }
 
 nav a{
@@ -84,45 +90,6 @@ p a:hover{
   color: #9E5D40;
 }
 
-
-/*.work a, .link{
-  text-decoration: none;
-  color:black;
-}
-
-.work a:hover{
-  color: #9E5D40;
-}
-
-a:hover{
-  color: #9E5D40;
-}
-
-.port-img{
-  width: 70%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.bio{
- text-align: center;
-}
-
-.bio-img img{
-   -webkit-filter: grayscale(100%); 
-  filter: grayscale(100%)
-}
-
-.headings{
-
-  text-align: center;
-    padding-bottom: 35px;
-}
-
-.work-index{
-  padding-bottom: 20px;
-}*/
 
 hr{
   color: #9E5D40;
@@ -160,9 +127,4 @@ footer{
   text-decoration: none;
 }
 
-/*@media screen and (min-width: 300px) {
- h1{
-  font-size: 35.16px;
- }
-}*/
 
