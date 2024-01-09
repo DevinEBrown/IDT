@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500&family=Manrope:wght@200;500&display=swap');
 /*body*/
  body{
         background-color: ##FBFBFB;
@@ -13,7 +13,7 @@
     --bs-navbar-active-color: rgba(0, 0, 0, 1);
 }
  .navbar a{
-font-family: 'Manrope', sans-serif;
+font-family: 'Karla', sans-serif;
 font-size: 18px;
 font-weight: 300;
 }
@@ -38,7 +38,7 @@ font-weight: 300;
 font-size: 2.986rem;
 }
 h2, .h2{
-  font-family: ivypresto-headline, serif;
+font-family: ivypresto-headline, serif;
 font-weight: 300;
 font-size: 2.488rem;
 }
@@ -66,22 +66,15 @@ font-weight: 300;
 font-size: 1.2rem;
 }
 
-li{
-font-family: 'Manrope', sans-serif;
-font-weight: 100;
-font-style: normal;
-font-size: 1rem;
-}
-
-p{
-font-family: 'Manrope', sans-serif;
-font-weight: 100;
+p, li{
+font-family: 'Karla', sans-serif;
+font-weight: 300;
 font-style: normal;
 font-size: 1rem;
 }
 
 nav a{
-font-family: 'Manrope', sans-serif;
+font-family: 'Karla', sans-serif;
 font-weight: 800;
 font-size: 18px;
 }
@@ -89,6 +82,28 @@ font-size: 18px;
 p a:hover{
   color: #9E5D40;
 }
+
+/*xl, xxl screens */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+h1, .h1{
+font-size: 3.815rem;
+}
+h2, .h2{
+font-size: 3.052rem;
+}
+h3,.h3{
+font-size: 2.441rem;
+}
+h4, .h4{
+font-size: 1.953rem;
+}
+h5,.h5{
+font-size: 1.563rem;
+}
+h6,.h6{
+font-size: 1.25rem;
+}}
 
 
 hr{
