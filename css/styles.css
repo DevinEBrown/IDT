@@ -176,10 +176,11 @@ font-weight: 300;
 .sec-link{
  color:#9E5D40;
  font-size: 1.25rem;
+  text-decoration: none;
 }
 
 .sec-link a{
-  text-decoration: none;
+
 }
 
 /*footer*/
