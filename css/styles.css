@@ -32,6 +32,10 @@ font-weight: 300;
 font-size: 20px;
 }
 
+ .navbar img{
+width:100px;
+height:100px;
+
 /*Fonts*/
 
 h1, h2, h3, h4, h5 li, p, a{
