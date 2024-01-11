@@ -179,8 +179,8 @@ font-weight: 300;
   text-decoration: none;
 }
 
-.fa-brands, .fab {
-     color:#9E5D40;
+.social a{
+color:#9E5D40;
  font-size: 1.25rem;
 }
 
