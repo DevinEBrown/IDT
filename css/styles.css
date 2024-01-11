@@ -179,8 +179,9 @@ font-weight: 300;
   text-decoration: none;
 }
 
-.sec-link a{
-
+.fa-brands, .fab {
+     color:#9E5D40;
+ font-size: 1.25rem;
 }
 
 /*footer*/
