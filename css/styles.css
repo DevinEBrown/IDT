@@ -3,7 +3,7 @@
 /*body*/
  
 body{
-background-color: ##FBFBFB;
+background-color: #FBFBFB;
  }
 
 /*Header*/
@@ -170,6 +170,15 @@ font-weight: 300;
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: #9E5D40;
     --bs-btn-disabled-border-color: #9E5D40;
+}
+/*figure caption*/
+
+.figure-caption {
+font-family: 'Karla', sans-serif;
+color: #393737;
+}
+.figure-caption a:hover{
+ color: #9E5D40;
 }
 
 /*secondary links*/
