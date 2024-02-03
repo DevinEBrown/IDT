@@ -191,6 +191,10 @@ color: #393737;
 .fa-brands{
   font-size: 20px;
 }
+/* video */
+iframe{
+	width:100%;
+}
 
 /*footer*/
 .social{
