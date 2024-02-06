@@ -85,8 +85,9 @@ font-style: normal;
 font-size: 1rem;
 }
 
+/* links */
 
-a{
+a, a:hover{
   color: #9E5D40;
 text-decoration: none;
 }
